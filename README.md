@@ -1,5 +1,5 @@
 # Atividade 1
-## Nome
+# Nome
 João Pedro Gonzaga
 
 ## Conhecimentos em Web
